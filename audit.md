@@ -1,0 +1,11 @@
+- Identify SPOFs (single point of failure)
+- Password management
+- Redundancy (servers & network links)
+- who has access to what?
+- have your employees been trained in cybersecurity? do they check sender before opening an attachment, do they think twice before clicking on links?
+  do they know what phishing is? do they lock their session when they're AFK?
+- is your critical equipment stored in a safe room? who has access to it?
+- is your software up to date?
+- which equipment is exposed to public access? how is it protected?
+- have you ever run a penetration testing? what was the result? if not, are you willing to do so?
+- are you aware of previous cyber attacks on your information system?
